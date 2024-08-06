@@ -135,4 +135,4 @@ https://gist.github.com/HACKER-YOVI/7e58d62d0296eeea348864c5367f6180
 <br>
 <br>
 
-### more awesome plugins after 540 stars on [HACKER YOVI-MD Repo📌](https://github.com/Badshamindu/HACKER-YOVI-MD)🎯
+### more awesome plugins after 540 stars on [HACKER YOVI-MD Repo📌](https://github.com/HACKER-YOVI/HACKER-YOVI-MD)🎯
